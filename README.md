@@ -1,6 +1,3 @@
-# MealPlan
-Meal Plan Generator
-
 # Meal Plan Generator
 
 A **dynamic web application** that generates a personalized weekly meal plan based on user inputs such as age, weight, height, gender, activity level, diet preference, and health restrictions. It uses the **Edamam Recipe Search API (v2)** to fetch recipes and display them in an interactive table.
